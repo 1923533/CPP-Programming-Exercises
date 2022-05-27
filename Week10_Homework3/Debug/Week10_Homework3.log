@@ -1,0 +1,6 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\samsung\source\repos\Week10_Homework3\VariousMonsters.h(7,12): error C2661: 'Monster::Monster': 오버로드된 함수에서 4개의 인수를 사용하지 않습니다.
+C:\Users\samsung\source\repos\Week10_Homework3\VariousMonsters.h(14,12): error C2661: 'Monster::Monster': 오버로드된 함수에서 4개의 인수를 사용하지 않습니다.
+C:\Users\samsung\source\repos\Week10_Homework3\VariousMonsters.h(30,12): error C2661: 'Monster::Monster': 오버로드된 함수에서 4개의 인수를 사용하지 않습니다.
+C:\Users\samsung\source\repos\Week10_Homework3\VariousMonsters.h(44,12): error C2661: 'Monster::Monster': 오버로드된 함수에서 4개의 인수를 사용하지 않습니다.
+C:\Users\samsung\source\repos\Week10_Homework3\Human.h(9,12): error C2661: 'Monster::Monster': 오버로드된 함수에서 4개의 인수를 사용하지 않습니다.
