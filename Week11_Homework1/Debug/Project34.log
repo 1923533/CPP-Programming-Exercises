@@ -1,0 +1,4 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\WIN\source\repos\Project34\Monster.h(45,6): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\WIN\source\repos\Project34\MonsterWorldGame.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Project34.vcxproj -> C:\Users\WIN\source\repos\Project34\Debug\Project34.exe
